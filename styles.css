@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/portland.jpg') no-repeat top center ;
+  background: url('images/winston-salem_warm.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -67,8 +67,8 @@ header {
 }
 header .profile-image {
   margin-top: 50px;
-  width: 227px;
-  height: 289px;
+  width: 177px;
+  height: 192px;
   border-radius: 50%;
   border: 3px solid white;
   transition: all .5s;
